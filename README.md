@@ -5,7 +5,6 @@ Hey there!
 
 I'm a jack-of-all-trades developer who is passionate about applying my programming knowledge to further my other interests such as reverse engineering and music production.
 
-I'm currently a teaching assistant at Codeup; a Texas-based coding bootcamp with both Full Stack Web Development and Data Science programs. *[We're hiring!](https://angel.co/company/codeup)*
 - - - -
 :computer: *Rig* - AMD Ryzen 2700X & RX580 running [Void Linux](https://voidlinux.org/)\
 :keyboard: *Editor* - [Neovim](https://neovim.io/) :black_heart:\
