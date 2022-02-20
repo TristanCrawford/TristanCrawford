@@ -1,14 +1,24 @@
 
-## Tristan Crawford
+### Hey, I'm Tristan 👋
 
-Hey there!
+Professional full-stack since 2018, but I've been an avid programmer for well over a decade.
 
-I'm a jack-of-all-trades developer who is passionate about applying my programming knowledge to further my other interests such as reverse engineering and music production.
+My interests primarily lie in DSP, GameDev, and web technologies.
 
 - - - -
-:computer: *Rig* - AMD Ryzen 2700X & RX580 running [Void Linux](https://voidlinux.org/)\
-:keyboard: *Editor* - [Neovim](https://neovim.io/) :black_heart:\
-:books: *Languages* - Javascript/Typescript, Python, Java, Dart, [V](https://github.com/vlang/v), [Zig](https://github.com/ziglang/zig), and a few more...
+:computer: Environment
+
+>[Void Linux](https://voidlinux.org/) + [Neovim](https://neovim.io/) :black_heart:
+
+:books: Languages I Like
+
+> JavaScript & TypeScript
+
+> Ruby
+
+> [Zig](https://github.com/ziglang/zig)
+
+And a handful of others...
 - - - -
 [![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tristanthtcrawford/)
 [![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=for-the-badge)](https://github.com/TristanCrawford)
