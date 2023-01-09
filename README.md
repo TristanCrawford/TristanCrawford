@@ -1,24 +1,18 @@
 
 ### Hey, I'm Tristan 👋
+[![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tristanthtcrawford/)
+[![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=flat)](https://github.com/TristanCrawford)
 
-Professional full-stack since 2018, but I've been an avid programmer for well over a decade.
+Rails Engineer @ [Baremetrics](https://baremetrics.com/)
 
-My interests primarily lie in DSP, GameDev, and web technologies.
+Environment
+---
+🐧 [Void Linux](https://voidlinux.org/)
 
-- - - -
-:computer: Environment
+✏️ [Neovim](https://neovim.io/)
 
->[Void Linux](https://voidlinux.org/) + [Neovim](https://neovim.io/) :black_heart:
+Languages I Like
+---
+💎 [Ruby](https://github.com/ruby/ruby)
 
-:books: Languages I Like
-
-> JavaScript & TypeScript
-
-> Ruby
-
-> [Zig](https://github.com/ziglang/zig)
-
-And a handful of others...
-- - - -
-[![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tristanthtcrawford/)
-[![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=for-the-badge)](https://github.com/TristanCrawford)
+🦎 [Zig](https://github.com/ziglang/zig)
