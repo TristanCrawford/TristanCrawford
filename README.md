@@ -5,7 +5,7 @@
 
 Rails Engineer @ [Baremetrics](https://baremetrics.com/)
 
-Environment
+Environment / Tools
 ---
 🐧 [Void Linux](https://voidlinux.org/)
 
@@ -16,3 +16,5 @@ Languages I Like
 💎 [Ruby](https://github.com/ruby/ruby)
 
 🦎 [Zig](https://github.com/ziglang/zig)
+
+🐃 [Odin](https://github.com/odin-lang/Odin)
