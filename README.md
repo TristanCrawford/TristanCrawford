@@ -1,6 +1,6 @@
 
 ### Hey, I'm Tristan 👋
-[![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tristanthtcrawford/)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tristanrcrawford/)
 [![GitHub](https://img.shields.io/github/followers/TristanCrawford?logo=github&style=flat)](https://github.com/TristanCrawford)
 
 Rails Engineer @ [Baremetrics](https://baremetrics.com/)
