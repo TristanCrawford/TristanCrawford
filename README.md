@@ -24,11 +24,11 @@ Languages
 
 Frameworks
 ---
-[Ruby on Rails](https://rubyonrails.org/)
+💎 [Ruby on Rails](https://rubyonrails.org/)
 
-[Vue](https://vuejs.org/)
+✌️ [Vue](https://vuejs.org/)
 
-[React](https://react.dev/)
+⚛️ [React](https://react.dev/)
 
 FOSS Tools
 ---
